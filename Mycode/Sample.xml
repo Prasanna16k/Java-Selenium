@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+	<food>
+		<name>Pancakes</name>
+		<price>$6.96</price>
+		<description>Pancakes contain flour, eggs, syrup etc</description>
+		<calories>500</calories>
+	</food>
+	
+	<food>
+		<name>FrenchFries</name>
+		<price>$3.24</price>
+		<description>French Fries are made ou of potatoes</description>
+		<calories>400</calories>
+	</food>
+	
+	<food>
+		<name>Biryani</name>
+		<price>$9.95</price>
+		<description>Biryani is made out of basmati rice and indian spices</description>
+		<calories>1000</calories>
+	</food>
+</breakfast_menu>

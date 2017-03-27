@@ -1,0 +1,13 @@
+package testng;
+
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+public class VerifyTitles {
+	@Test
+	public void verifyTitle(){
+				Assert.assertEquals("Gmail", "Gmail");
+		
+	}
+}

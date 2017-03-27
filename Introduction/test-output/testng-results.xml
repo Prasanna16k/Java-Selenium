@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43" started-at="2017-03-27T01:52:23Z" finished-at="2017-03-27T01:52:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43" started-at="2017-03-27T01:52:23Z" finished-at="2017-03-27T01:52:23Z">
+      <class name="testng.BeforeAndAfter$verifiesTitles">
+        <test-method status="PASS" signature="verifyTitles()[pri:0, instance:testng.BeforeAndAfter$verifiesTitles@cc285f4]" name="verifyTitles" is-config="true" duration-ms="5" started-at="2017-03-26T20:52:23Z" finished-at="2017-03-26T20:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitles -->
+        <test-method status="PASS" signature="title()[pri:0, instance:testng.BeforeAndAfter$verifiesTitles@cc285f4]" name="title" duration-ms="5" started-at="2017-03-26T20:52:23Z" finished-at="2017-03-26T20:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method status="PASS" signature="titles()[pri:0, instance:testng.BeforeAndAfter$verifiesTitles@cc285f4]" name="titles" is-config="true" duration-ms="3" started-at="2017-03-26T20:52:23Z" finished-at="2017-03-26T20:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titles -->
+        <test-method status="PASS" signature="verifyTitles()[pri:0, instance:testng.BeforeAndAfter$verifiesTitles@cc285f4]" name="verifyTitles" is-config="true" duration-ms="0" started-at="2017-03-26T20:52:23Z" finished-at="2017-03-26T20:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitles -->
+        <test-method status="PASS" signature="verify()[pri:0, instance:testng.BeforeAndAfter$verifiesTitles@cc285f4]" name="verify" duration-ms="2" started-at="2017-03-26T20:52:23Z" finished-at="2017-03-26T20:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="titles()[pri:0, instance:testng.BeforeAndAfter$verifiesTitles@cc285f4]" name="titles" is-config="true" duration-ms="0" started-at="2017-03-26T20:52:23Z" finished-at="2017-03-26T20:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titles -->
+      </class> <!-- testng.BeforeAndAfter$verifiesTitles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
